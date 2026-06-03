@@ -29,8 +29,8 @@ export const data = {
       date: "7",
       day: "Ahad",
       hours: {
-        start: "19.00",
-        finish: "22.00",
+        start: "15.00",
+        finish: "selesai",
       },
     },
     reception: {
@@ -39,8 +39,8 @@ export const data = {
       date: "8",
       day: "Senin",
       hours: {
-        start: "19.00",
-        finish: "22.00",
+        start: "15.00",
+        finish: "selesai",
       },
     },
     address:
